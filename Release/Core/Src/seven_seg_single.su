@@ -1,0 +1,2 @@
+../Core/Src/seven_seg_single.c:28:6:sevenSegInit	0	static
+../Core/Src/seven_seg_single.c:38:6:sevenSegSingleWrite	12	static
